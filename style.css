@@ -1,0 +1,685 @@
+
+.container{
+    width: 1440px;
+height: 72px;
+background: rgba(255, 255, 255, 1);
+}
+
+.searchbar {
+    padding-left: 36px;
+    width: 360px;
+    height: 42px;
+    top: 16px;
+    left: 540px;
+    border-radius: 21px;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.navtext{
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: right;
+     
+}
+.textwithimg{
+    position: absolute;
+    width: 378px;
+    height: 47px;
+    top: 358px;
+    left: 200px;
+    font-family: IBM Plex Sans;
+    font-weight: bold;
+font-size: 36px;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.textwithimg2{
+    position: absolute;
+    width: 327px;
+height: 23px;
+top: 409px;
+left: 200px;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.firstline{
+    width: 1296px;
+top: 544px;
+left: 72px;
+border: 1px;
+border: 1px solid rgba(224, 224, 224, 1)
+
+}
+.menu{
+    width: 358px;
+height: 21px;
+top: 559px;
+left: 200px;
+
+}
+.allposts{
+    width: 93px;
+height: 21px;
+top: 559px;
+left: 200px;
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+}
+.article{
+    width: 47px;
+height: 21px;
+top: 559px;
+left: 313px;
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(138, 138, 138, 1);
+}
+.event{
+    width: 41px;
+        height: 21px;
+        font-family: IBM Plex Sans;
+    top: 559px;
+    left: 380px;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color:rgba(138, 138, 138, 1);
+
+}
+.education{
+    position: absolute;
+    width: 72px;
+    height: 21px;
+    top: 559px;
+    left: 439px;
+    font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(138, 138, 138, 1);
+
+}
+.job{
+    width: 27px;
+    height: 21px;
+    top: 559px;
+    left: 531px;
+    font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(138, 138, 138, 1);
+
+}
+.writeapost{
+    position: absolute;
+    width: 120px;
+height: 36px;
+top: 552px;
+left: 966px;
+border-radius: 4px;
+background: rgba(237, 238, 240, 1);
+
+}
+.writepost{
+width: 83px;
+height: 20px;
+top: 560px;
+left: 978px;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+
+;
+}
+.joingroup{
+    position: absolute;
+    width: 125px;
+height: 36px;
+top: 552px;
+left: 1115px;
+border-radius: 4px;
+background: rgba(47, 108, 229, 1);
+
+}
+.join{
+    width: 75px;
+height: 20px;
+top: 560px;
+left: 1153px;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+forced-color-adjust: rgba(255, 255, 255, 1);
+
+}
+.secondline{
+    width: 1040px;
+top: 600px;
+left: 200px;
+border: 1px;
+border: 1px solid rgba(224, 224, 224, 1)
+}
+.wholecontainer{
+    width: 692px;
+height: 1751px;
+top: 628px;
+left: 200px;
+padding-left: 200px;
+padding-top: 20px;
+}
+.container-3{
+    width: 692px;
+height: 472px;
+top: 628px;
+left: 200px;
+border-radius: 4px;
+border: 1px;
+background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(224, 224, 224, 1);
+font-family:"IBM Plex Sans";
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+
+}
+.article{
+    width: 77px;
+height: 25px;
+top: 868px;
+left: 220px;
+
+Line-height: 23.4px;
+font-size: 18px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color:#000000;
+padding-left: 10px;
+
+}
+.c3text{
+    width: 652px;
+height: 25px;
+top: 975px;
+left: 220px;
+font-family: IBM Plex Sans;
+font-size: 19px;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #5C5C5C;
+padding-left: 10px;
+}
+.sarthak{
+    width: 48px;
+height: 48px;
+top: 1032px;
+left: 220px;
+border-radius: 24px;
+padding-left: 20px;
+}
+.eyeview{
+ position: absolute;
+    width: 18px;
+height: 18px;
+top: 1058px;
+padding: 3.38px, 0.75px, 3.38px, 0.75px;
+left: 695px
+}
+.sarthaktext{
+    width: 125px;
+    height: 24px;
+    top: 1044px;
+    left: 278px;
+    font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: bold;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+color: #525252;
+}
+.views{
+    position: absolute;
+    width: 69px;
+    height: 18px;
+    top: 1047px;
+    left: 721px;
+    font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+
+}
+.share1{
+    position: absolute;
+    width: 42px;
+    height: 36px;
+    top: 1038px;
+    left: 830px;
+    border-radius: 2px;
+    
+}
+
+.container-4{
+    width: 692px;
+height: 472px;
+top: 1125px;
+left: 200px;
+border-radius: 4px;
+border: 1px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+padding-top: 10px;
+
+}
+.container4img{
+    width: 692px;
+height: 220px;
+top: 1116px;
+left: 200px;
+border-radius: 4px, 4px, 0px, 0px;
+background: #C4C4C4;
+padding-left: 10px;
+}
+.edu{
+width: 105px;
+height: 25px;
+top: 1356px;
+left: 240px;
+font-family: IBM Plex Sans;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+font-weight: bold;
+}
+.container-4text{
+    width: 600px;
+height: 60px;
+top: 1391px;
+left: 220px;
+padding-left: 10px;
+font-family: IBM Plex Sans;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.container-4text2{
+    width: 652px;
+    height: 25px;
+    top: 1463px;
+    left: 220px;
+    font-family: IBM Plex Sans;
+font-size: 19px;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #5C5C5C;
+padding-left: 10px;
+
+}
+.saraimg{
+    width: 48px;
+height: 48px;
+top: 1520px;
+left: 220px;
+border-radius: 24px;
+padding-left: 10px;
+}
+
+.saraline{
+    width: 96px;
+    height: 24px;
+    top: 1532px;
+    left: 278px;
+    font-family: IBM Plex Sans;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+font-weight: 800;
+
+}
+.eyeview2{
+    position:absolute;
+    width: 18px;
+height: 18px;
+top: 1532px;
+left: 695px;
+padding: 3.38px, 0.75px, 3.38px, 0.75px;
+
+}
+.views2{
+    position : absolute;
+    width: 69px;
+height: 18px;
+top: 1535px;
+left: 721px;
+font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+color: #525252;
+
+}
+.share2{
+    position : absolute;
+    width: 42px;
+height: 30px;
+top: 1526px;
+left: 830px;
+border-radius: 2px;
+
+
+}
+.container5{
+    width: 692px;
+height: 490px;
+top: 1604px;
+left: 200px;
+border-radius: 4px;
+border: 1px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+
+}
+.container5text{
+    width: 600px;
+height: 29px;
+top: 1879px;
+left: 220px;
+font-family: IBM Plex Sans;
+font-size: 22px;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+padding-left: 10px;
+}
+.dots{
+   width: 28px;
+height: 28px;
+top: 1880px;
+left: 867px;
+padding: 4.67px, 0px, 4.67px, 0px;
+
+}
+.calendar{
+    width: 20px;
+height: 20px;
+top: 1900px;
+left: 220px;
+
+}
+.date{
+    position:absolute;
+    width: 142px;
+    height: 20px;
+    top: 1910px;
+    left: 244px;
+     font-weight: 900; 
+}
+.location{
+    position:absolute;
+    width: 20px;
+height: 20px;
+top: 1920px;
+left: 426px;
+
+}
+.add{
+    position: absolute;
+    width: 128px;
+height: 20px;
+top: 1910px;
+left: 450px;
+font-family: IBM Plex Sans;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+font-weight: 900;
+}
+.bt1{
+    position: absolute;
+    width: 652px;
+height: 38px;
+top: 1956px;
+left: 220px;
+border-radius: 8px;
+border: 0.7px solid #A9AEB8;
+
+}
+.ronal{
+position: absolute;
+width: 48px;
+height: 48px;
+top: 2026px;
+left: 220px;
+border-radius: 24px;
+
+}
+.ronaltext{
+    position: absolute;  
+width: 102px;
+height: 24px;
+top: 2030px;
+left: 278px;
+font-family: IBM Plex Sans;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+font-weight: 500;
+}
+.eyeview3{
+    position:absolute;
+    width: 18px;
+    height: 18px;
+    top: 2041px;
+    left: 695px;
+    padding: 3.38px, 0.75px, 3.38px, 0.75px;
+    
+}
+.views3{
+    position:absolute;
+    width: 69px;
+height: 18px;
+top: 2041px;
+left: 721px;
+font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+color: #525252;
+
+}
+.share3{
+    position :absolute;
+    width: 42px;
+    height: 30px;
+    top: 2032px;
+    left: 830px;
+    border-radius: 2px;
+    
+}
+.container6{
+width: 692px;
+height: 269px;
+top: 2120px;
+left: 200px;
+border-radius: 4px;
+border: 1px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+
+}
+.container6text{
+    width: 600px;
+height: 30px;
+top: 2165px;
+left: 220px;
+font-family: IBM Plex Sans;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+.dots2{
+    position: absolute;
+    width: 28px;
+height: 28px;
+top: 2155px;
+left: 872px;
+}
+.work{
+    width: 20px;
+height: 20px;
+top: 2214px;
+left: 220px;
+position: absolute;
+}
+.info{
+    position: absolute;
+    width: 226px;
+height: 20px;
+top: 2207px;
+left: 244px;
+font-family: IBM Plex Sans;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color:  #000000;
+font-weight: bold;
+}
+.location2{
+    position: absolute;
+    width: 20px;
+height: 20px;
+top: 2214px;
+left: 510px;
+
+}
+.add2{
+    position: absolute;
+    width: 85px;
+height: 20px;
+top: 2207px;
+left: 534px;
+font-family: IBM Plex Sans;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+font-weight: bold;
+
+}
+.bt2{
+    width: 650px;
+height: 36px;
+top: 2243px;
+left: 222px;
+border-radius: 10px;
+border: 0.7px solid #A9AEB8;
+position: absolute;
+}
+.joseph{
+    position: absolute;
+    width: 48px;
+height: 48px;
+top: 2311px;
+left: 220px;
+border-radius: 24px;
+}
+.josephtext{
+    position: absolute;
+    width: 104px;
+height: 24px;
+top: 2315px;
+left: 278px;
+font-family: IBM Plex Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.eyeview4{
+    width: 18px;
+height: 18px;
+top: 2326px;
+left: 695px;
+padding: 3.38px, 0.75px, 3.38px, 0.75px;
+position: absolute;
+font-weight: bold;
+}
+
+.views4{
+    width: 69px;
+height: 18px;
+top: 2315px;
+left: 721px;
+font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+color: #525252;
+position:absolute;
+}
+
+.share4{
+    position:absolute;
+    width: 42px;
+height: 30px;
+top: 2317px;
+left: 830px;
+border-radius: 2px;
+}
